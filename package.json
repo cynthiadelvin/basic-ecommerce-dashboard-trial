@@ -1,0 +1,19 @@
+{
+  "name": "ecommercedashboardusingreactnode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cynthiadelvin/basic-ecommerce-dashboard-trial.git"
+  },
+  "author": "Cynthia Delvin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cynthiadelvin/basic-ecommerce-dashboard-trial/issues"
+  },
+  "homepage": "https://github.com/cynthiadelvin/basic-ecommerce-dashboard-trial#readme"
+}
